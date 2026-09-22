@@ -1,0 +1,13 @@
+{
+  "name": "calendar-window-rollout",
+  "version": "1.0.0",
+  "description": "Zero-dependency monthly schedule expansion with ordered rollout",
+  "type": "module",
+  "main": "src/monthly.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
